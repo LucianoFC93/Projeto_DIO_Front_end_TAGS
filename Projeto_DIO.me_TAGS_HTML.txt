@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esporte news</title>    
+</head>
+
+<body>
+  
+  <blockquote><h1><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-xz-iktEOIHbSMI0CEHYsWy8ifRSPv1BVg&s">MERCADO  DA <abbr title="National Basketball Association">NBA</abbr></h1></blockquote>
+  <hr/>
+  
+  <h2>Fique por dentro das trocas na <abbr title="National Basketball Association">NBA</abbr></h2><h3>Mercado está agitado!</h3><br>
+
+  
+    <p><u><strong>Jimmy Butler foi para o warriors!</strong><br><small>Ele faz hoemnagem a neymar e escolhe camisa 10.</small></u></p><br>
+      
+    
+
+      <img width="200" src="https://jumperbrasil.com.br/wp-content/uploads/2025/02/Stephen-Curry-e-Jimmy-Butler.webp" alt="">
+      <p>Após brigas internas Butler tenta respirar novos ares!
+      <mark>Ala armador estava irritado com a diretoria e forçou sua saida</mark>,  considerado por muitos o pilar para o sucesso recente de Miami.<br>
+      conseguiu levar o time a duas finais nos ultimos tempos e era considerado a cara da franquia, porem hoje esta com seus 35 anos<br>
+      e o warriors tem receio quanto ao desenvolvimento interno, sabendo que Butler tem um perfil complicado e já tendo o <del>Deamon green</del> como lider.</p>
+    
+       
+  
+   
+    <p><u><strong>Luka doncic chora pela traição de Dallas</strong><small><br>Ele teve um prejuizo de 700 milhões de reais!</small></u></p> 
+      
+      <img width="200" src="https://jpimg.com.br/uploads/2025/02/1738703932954643-750x434.jpg" alt="">
+      <p> Eslovaquio chora por ter sido trocado, ele teve um prejuizo de <em>700 milhões de reais</em>!
+      A troca entre Lakers e Mavericks aconteceu na madrugada do último domingo (2). <mark>Assim como Doncic, Maxi Kleber e Markieff Morris</mark> foram enviados a Los Angeles. 
+      <mark>Anthony Davis, Max Christie</mark> e uma escolha da primeira rodada do Draft de 2029 chegaram a Dallas. O Utah Jazz também se envolveu, recebendo Jalen-Hood-Schifino 
+      e as escolhas de segunda rodada dos Clippers e dos Mavs em 2025.</p>
+      <img width="150" src="" alt="">
+      <hr>      
+  <h3>Melhores jogadores da temporada</h3>
+      <ol  type="1">
+        <li>Shai Gilgeous-Alexander<sup>PG</sup><sub>OKC</sub> </li>
+        <li>Giannis Antetokounmpo0<sup>PF</sup><sub>MI</sub></li>
+        <li>Nikola Jokic<sup>C</sup><sub>DEN</sub></li>
+        <li>Tyrese Maxey<sup>PG</sup><sub>PHI</sub></li>
+        <li>Anthony Edwards<sup>SG</sup><sub>MIN</sub></li>
+        <li>Kevin Durant<sup>PF</sup><sub>PHX</sub></li>
+        <li>Jayson Tatum<sup>SF</sup><sub>BOS</sub></li>
+        <li>Devin Booker<sup>SG</sup><sub>PHX</sub></li>
+        <li>Jalen Brunson<sup>PG</sup><sub>NY</sub></li>
+        <li>Anthony Davis<sup>PF</sup><sub>LAL/DAL</sub></li>
+
+      </ol>
+
+  <p style="color:blue">Saiba mais sobre </p>
+        <ul>
+          <li><a  href="https://jumperbrasil.com.br/anthony-davis-brilha-em-estreia-e-mavericks-bate-rockets/" >Anthony Davis brilha em sua estreia</a></li>
+          <li><a  href="https://jumperbrasil.com.br/na-estreia-de-jimmy-butler-warriors-vence-bulls/">Na estreia de Jimmy Butler, Warriors vence Bulls</a></li>
+          <li><a  href="https://jumperbrasil.com.br/troca-de-mark-williams-para-o-lakers-e-cancelada/"> Troca de Mark Williams para o Lakers é cancelada</a></li>
+         
+        </ul> 
+    
+  
+</body>
+</html>
